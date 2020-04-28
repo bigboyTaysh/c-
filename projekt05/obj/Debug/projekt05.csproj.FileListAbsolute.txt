@@ -1,0 +1,7 @@
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt05\bin\Debug\lab55.exe.config
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt05\bin\Debug\lab55.exe
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt05\bin\Debug\lab55.pdb
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt05\obj\Debug\projekt05.csprojAssemblyReference.cache
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt05\obj\Debug\projekt05.csproj.CoreCompileInputs.cache
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt05\obj\Debug\lab55.exe
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt05\obj\Debug\lab55.pdb

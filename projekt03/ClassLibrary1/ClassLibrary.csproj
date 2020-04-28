@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>ClassLibrary</AssemblyName>
+    <RootNamespace>ClassLibrary</RootNamespace>
+  </PropertyGroup>
+
+</Project>

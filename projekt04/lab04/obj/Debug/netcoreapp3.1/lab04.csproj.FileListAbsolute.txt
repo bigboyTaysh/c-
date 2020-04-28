@@ -1,0 +1,16 @@
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\bin\Debug\netcoreapp3.1\lab04.exe
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\bin\Debug\netcoreapp3.1\lab04.deps.json
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\bin\Debug\netcoreapp3.1\lab04.runtimeconfig.json
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\bin\Debug\netcoreapp3.1\lab04.runtimeconfig.dev.json
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\bin\Debug\netcoreapp3.1\lab04.dll
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\bin\Debug\netcoreapp3.1\lab04.pdb
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\obj\Debug\netcoreapp3.1\lab04.csprojAssemblyReference.cache
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\obj\Debug\netcoreapp3.1\lab04.csproj.CoreCompileInputs.cache
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\obj\Debug\netcoreapp3.1\lab04.AssemblyInfoInputs.cache
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\obj\Debug\netcoreapp3.1\lab04.AssemblyInfo.cs
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\obj\Debug\netcoreapp3.1\lab04.csproj.CopyComplete
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\obj\Debug\netcoreapp3.1\lab04.dll
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\obj\Debug\netcoreapp3.1\lab04.pdb
+C:\Users\wolak\OneDrive\SEM 6\PZ\lab04\lab04\obj\Debug\netcoreapp3.1\lab04.genruntimeconfig.cache

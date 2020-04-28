@@ -1,0 +1,14 @@
+C:\Users\Racki Kamil\source\repos\lab55\lab55\bin\Debug\lab55.exe.config
+C:\Users\Racki Kamil\source\repos\lab55\lab55\bin\Debug\lab55.exe
+C:\Users\Racki Kamil\source\repos\lab55\lab55\bin\Debug\lab55.pdb
+C:\Users\Racki Kamil\source\repos\lab55\lab55\obj\Debug\lab55.csprojAssemblyReference.cache
+C:\Users\Racki Kamil\source\repos\lab55\lab55\obj\Debug\lab55.csproj.CoreCompileInputs.cache
+C:\Users\Racki Kamil\source\repos\lab55\lab55\obj\Debug\lab55.exe
+C:\Users\Racki Kamil\source\repos\lab55\lab55\obj\Debug\lab55.pdb
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab05\bin\Debug\lab55.exe.config
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab05\bin\Debug\lab55.exe
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab05\bin\Debug\lab55.pdb
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab05\obj\Debug\lab55.csprojAssemblyReference.cache
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab05\obj\Debug\lab55.csproj.CoreCompileInputs.cache
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab05\obj\Debug\lab55.exe
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab05\obj\Debug\lab55.pdb

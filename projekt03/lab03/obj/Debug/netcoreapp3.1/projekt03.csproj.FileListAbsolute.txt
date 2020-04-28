@@ -1,0 +1,16 @@
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\bin\Debug\netcoreapp3.1\projekt03.exe
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\bin\Debug\netcoreapp3.1\projekt03.deps.json
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\bin\Debug\netcoreapp3.1\projekt03.runtimeconfig.json
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\bin\Debug\netcoreapp3.1\projekt03.runtimeconfig.dev.json
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\bin\Debug\netcoreapp3.1\projekt03.dll
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\bin\Debug\netcoreapp3.1\projekt03.pdb
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\obj\Debug\netcoreapp3.1\projekt03.csprojAssemblyReference.cache
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\obj\Debug\netcoreapp3.1\projekt03.csproj.CoreCompileInputs.cache
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\obj\Debug\netcoreapp3.1\projekt03.AssemblyInfoInputs.cache
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\obj\Debug\netcoreapp3.1\projekt03.AssemblyInfo.cs
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\obj\Debug\netcoreapp3.1\projekt03.csproj.CopyComplete
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\obj\Debug\netcoreapp3.1\projekt03.dll
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\obj\Debug\netcoreapp3.1\projekt03.pdb
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\lab03\lab03\obj\Debug\netcoreapp3.1\projekt03.genruntimeconfig.cache

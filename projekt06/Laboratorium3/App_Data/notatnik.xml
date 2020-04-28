@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfKontakt xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Kontakt>
+    <grupa>Rodzina</grupa>
+    <Id>1</Id>
+    <Imie>Patryk</Imie>
+    <Nazwisko>W</Nazwisko>
+    <Email>email@gmail.com</Email>
+    <Telefon>5054654654</Telefon>
+  </Kontakt>
+  <Kontakt>
+    <grupa>Praca</grupa>
+    <Id>2</Id>
+    <Imie>Imie</Imie>
+    <Nazwisko>nazw</Nazwisko>
+    <Email>dasd@wp.pl</Email>
+    <Telefon>4564654</Telefon>
+  </Kontakt>
+  <Kontakt>
+    <grupa>Przyjaciele</grupa>
+    <Id>3</Id>
+    <Imie>Kontakt</Imie>
+    <Nazwisko>Nazwisko</Nazwisko>
+    <Email>email</Email>
+    <Telefon>32131</Telefon>
+  </Kontakt>
+</ArrayOfKontakt>

@@ -1,0 +1,16 @@
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\bin\Debug\netcoreapp3.1\projekt04.exe
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\bin\Debug\netcoreapp3.1\projekt04.deps.json
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\bin\Debug\netcoreapp3.1\projekt04.runtimeconfig.json
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\bin\Debug\netcoreapp3.1\projekt04.runtimeconfig.dev.json
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\bin\Debug\netcoreapp3.1\projekt04.dll
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\bin\Debug\netcoreapp3.1\projekt04.pdb
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\obj\Debug\netcoreapp3.1\projekt04.csprojAssemblyReference.cache
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\obj\Debug\netcoreapp3.1\projekt04.csproj.CoreCompileInputs.cache
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\obj\Debug\netcoreapp3.1\projekt04.AssemblyInfoInputs.cache
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\obj\Debug\netcoreapp3.1\projekt04.AssemblyInfo.cs
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\obj\Debug\netcoreapp3.1\projekt04.csproj.CopyComplete
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\obj\Debug\netcoreapp3.1\projekt04.dll
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\obj\Debug\netcoreapp3.1\projekt04.pdb
+C:\Users\wolak\OneDrive\INFORMATYKA\C#\c#\projekt04\lab04\obj\Debug\netcoreapp3.1\projekt04.genruntimeconfig.cache
